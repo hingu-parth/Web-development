@@ -6,7 +6,7 @@
 * HTML elements can be nested inside other elements. The enclosed element is the child of the enclosing parent element.
 * Any visible content should be placed within the opening and closing <body> tags.
 * Headings and sub-headings, tags, are used to enlarge text.
-*  '<p>', <span> and <div> tags specify text or blocks.
+*  `<p>`, <span> and <div> tags specify text or blocks.
 * The <em> and <strong> tags are used to emphasize text.
 * Line breaks are created with the <br> tag.
 * Ordered lists are numbered and unordered lists (<ul>) are bulleted.
