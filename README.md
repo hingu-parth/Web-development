@@ -12,7 +12,7 @@
 * Ordered lists are numbered and unordered lists (`<ul>`) are bulleted.
 * Images (`<img>`) and videos (`<video>`) can be added by linking to an existing source.
 
-1. ## HTML Tags
+2. ## HTML Tags
 * The `<!DOCTYPE html>` declaration should always be the first line of code in your HTML files. This lets the browser know what version of HTML to expect.
 * The `<html>` element will contain all of your HTML code.
 * Information about the web page, like the title, belongs within the `<head>` of the page.
