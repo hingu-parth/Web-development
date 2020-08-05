@@ -1,7 +1,7 @@
 # Web-development
 
-
-* HTML stands for HyperText Markup Language and is used to create the structure and content of a webpage.
+## Introduction to HTML
+* __HTML__ stands for **H**yper**T**ext **M**arkup **L**anguage and is used to create the structure and content of a webpage.
 * Most HTML elements contain opening and closing tags with raw text or other HTML tags between them.
 * HTML elements can be nested inside other elements. The enclosed element is the child of the enclosing parent element.
 * Any visible content should be placed within the opening and closing `<body>` tags.
